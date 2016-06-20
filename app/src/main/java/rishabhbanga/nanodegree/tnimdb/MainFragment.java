@@ -185,8 +185,7 @@ public class MainFragment extends Fragment {
 
             String format = "json";
 
-            String keyValue = "27ec1451d670425cb869be3af0e63646";
-
+            String keyValue = "";
             try {
 
                 final String BASE_URL =
